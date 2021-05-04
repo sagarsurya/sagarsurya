@@ -1,11 +1,9 @@
-Hello, I'm Sagar Suryawanshi
+Hello, I'm Sagar Suryawanshi 👋
 
 - 🔭 I’m currently working as Web Developer
-- 👋 Hi, I’m @sagarsurya
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m highly skilled in PHP, Laravel, JavaScript
+- 🌱 I’m currently learning Angular JS
+- 📫 How to reach me: Linkedin - @
 
 <!---
 sagarsurya/sagarsurya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
