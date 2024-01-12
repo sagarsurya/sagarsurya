@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at **Datagrid Solutions**
 
-- 🌱 I’m currently learning **React and Vue JS**
+- 🌱 I’m currently learning **MERN Full Stack**
 
 - ⚡ Fun fact **I love coding and learning new technology**
 
