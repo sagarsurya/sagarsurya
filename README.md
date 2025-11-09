@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Sagar Suryawanshi</h1>
-<h3 align="center">Senior Laravel Developer | Backend Engineer | SaaS & API Specialist</h3>
+<h3 align="center">Senior Laravel Developer | Backend Engineer | SaaS & API Specialist | Open to Remote Roles</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/sagarsurya" target="_blank">
@@ -17,10 +17,11 @@
 
 ### 💡 About Me
 
-🚀 Senior **Laravel Developer** with 6+ years of experience building and scaling web applications for SaaS, ERP, and GovTech domains.  
-💻 Passionate about **backend development, APIs, and automation** with clean and scalable code.  
-🌍 Currently exploring **remote/global opportunities** to collaborate on innovative products.  
-📚 Constantly learning and experimenting with **AI integrations**, **NodeJS**, and **modern web tech**.
+🚀 Senior **Laravel Developer** with 6+ years of experience building and scaling web applications across SaaS, ERP, and GovTech domains.  
+💻 Passionate about **backend development, REST APIs, and automation** with a focus on clean, maintainable architecture.  
+🌍 Open to **remote and global opportunities** in backend or full-stack development.  
+⚙️ Experienced with **Laravel, MySQL, API integrations, and AWS deployment**.  
+📚 Constantly learning and experimenting with **AI integrations**, **Node.js**, and **modern web technologies**.
 
 ---
 
@@ -32,11 +33,11 @@
 #### 🗄️ Databases:
 - MySQL • MongoDB • Query Optimization • Eloquent ORM
 
-#### 🧰 DevOps / Tools:
-- Git • GitHub • GitLab • Bitbucket • Docker (Basic) • Postman • Swagger • AWS • DigitalOcean
-
 #### 🎨 Frontend:
 - React (Basic) • Bootstrap • Tailwind CSS • jQuery • HTML5 • CSS3
+
+#### 🧰 DevOps / Tools:
+- Git • GitHub • GitLab • Bitbucket • Docker (Basic) • Postman • Swagger • AWS • DigitalOcean
 
 #### 🤝 Remote Collaboration:
 - Slack • Trello • Jira • Notion • Google Workspace
@@ -44,26 +45,74 @@
 ---
 
 ### 🏆 Career Highlights
-- Built and deployed **10+ production-grade Laravel platforms** used by 100K+ users.  
-- Delivered SaaS and ERP systems for **Maharashtra Govt., TCS, and international clients**.  
-- Implemented **AI-driven security analysis (CIRAAI)** reducing manual tasks by 60%.  
-- Experienced in **payment integrations (Stripe, Razorpay)** and **automated workflows** using Gmail API, OpenAI, and webhooks.
+- Developed and deployed **14+ production-grade Laravel applications** across SaaS, ERP, and GovTech domains.  
+- Delivered projects adopted by **Maharashtra Govt.** and **Childline India Foundation (TCS collaboration)**.  
+- Implemented **AI-powered threat analysis** in CIRAAI, reducing manual review time by 60%.  
+- Integrated **OpenAI, Gmail API, and payment gateways (Stripe, Razorpay)** into live production systems.  
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects  
 
-#### 🔹 [AAHOA AMS](#)
-Membership and subscription management system for the **Asian American Hotel Owners Association**.  
-*Stack:* Laravel, MySQL, Bootstrap, Stripe API, AWS  
+#### 🔹 [AAHOA AMS – Asian American Hotel Owners Association](#)
+Membership & subscription platform for AAHOA members, vendors, and families with payment gateway integration.  
+**Tech Stack:** Laravel, MySQL, Bootstrap, jQuery, Stripe/Razorpay API, AWS  
+
+---
+
+#### 🔹 [SCMT – ERP-Based Ticket & Task Management System](#)
+Automated communication workflows by integrating Gmail & Outlook APIs to convert incoming emails into support tickets.  
+**Tech Stack:** Laravel, MySQL, Gmail API, Outlook API, jQuery, Bootstrap  
+
+---
 
 #### 🔹 [CIRAAI – Cyber Intelligence & Risk Analysis AI System](#)
-AI-powered web platform integrating threat intelligence APIs for domain risk analysis.  
-*Stack:* Laravel, REST APIs, MySQL, OpenAI, Docker  
+AI-powered threat detection tool integrating multiple third-party intelligence APIs to assess domain and URL risks in real time.  
+**Tech Stack:** Laravel, REST APIs, MySQL, Virustotal API, jQuery, Bootstrap  
+
+---
 
 #### 🔹 [Makroom – AI-Based Interior Design Platform](#)
-Virtual home decor system using AI to visualize wallpapers, tiles, and color combinations.  
-*Stack:* Laravel, React, MySQL, Tailwind CSS, JavaScript  
+Virtual home decor platform allowing users to visualize wallpapers, tiles, and designs with AI & ML.  
+**Tech Stack:** Laravel, Python (scripts), React (basic), MySQL, JavaScript, Tailwind CSS  
+
+---
+
+#### 🔹 [BizCyclone](#)
+Multi-country platform managing tenders, jobs, events, and venues with database performance optimization.  
+**Tech Stack:** Laravel, MySQL, Bootstrap, jQuery, RESTful APIs, Apache Solr  
+
+---
+
+#### 🔹 [OldSold – Automated Video Editing using FFMPEG](#)
+Automated video editing and multimedia processing platform leveraging FFMPEG and Laravel for media workflows.  
+**Tech Stack:** Laravel, MySQL, FFMPEG, Docker, Bootstrap, jQuery  
+
+---
+
+#### 🔹 [Covid-19 ePass System (Maharashtra Govt.)](#)
+Government-approved travel pass system enabling citizens to request and track interstate or intrastate ePass approvals.  
+**Tech Stack:** Laravel, React, MySQL, Bootstrap, jQuery, RESTful APIs  
+
+---
+
+#### 🔹 [Childline India Foundation – Case Reporting System](#)
+Collaborated with **TCS (Bangalore)** to develop a web & mobile-enabled system for NGO partners to report and analyze cases.  
+**Tech Stack:** Laravel, MySQL, Bootstrap, jQuery, RESTful APIs, React  
+
+---
+
+#### 🔹 [Maharashtra Police – Third I System](#)
+Built a **QR-based patrolling and crime analytics system** enabling real-time FIR tracking and control room monitoring.  
+**Tech Stack:** Laravel, Core PHP, MySQL, Bootstrap, jQuery, RESTful APIs  
+
+---
+
+<p align="center">
+  <a href="https://github.com/sagarsurya?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-on%20GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
@@ -83,7 +132,7 @@ Virtual home decor system using AI to visualize wallpapers, tiles, and color com
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:sagarsuryawanshi191@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:sagarsurya191@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://linkedin.com/in/sagarsurya"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/sagarsurya"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
 </p>
